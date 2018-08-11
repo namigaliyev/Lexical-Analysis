@@ -17,8 +17,8 @@ public class Number {
   }
   
   public Number(String aa,float bb){
-	  this.aa=aa;
-	  this.bb=bb;
+    this.aa=aa;    
+    this.bb=bb;
   }
 
   public void setDeger(int value){
